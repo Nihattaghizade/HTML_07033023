@@ -27,9 +27,7 @@
     border-radius: 50%;
     background-color: azure;
     position: relative;
-    border: 20px;
-    border-color: black;
-    border-width: 200px;
+    border: 1px solid black;
 }
 
 .social ul li a i{
